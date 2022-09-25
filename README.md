@@ -1,7 +1,10 @@
+<img align="left" alt="Code" width="1200" src="https://th.bing.com/th/id/R.5eecf938675049428407c06335be7d72?rik=ajcjyLHuEVAf3g&riu=http%3a%2f%2fwww.eviaglobal.com%2fimages%2fFront-End-Web-Development.jpg&ehk=P8J7zrwbeJALX81lE3wYLESa5DONTW41bDznPgXIrq8%3d&risl=&pid=ImgRaw&r=0">
+
 <h1 align="center">Hi 👋, I'm NAMAN JOSHI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanjoshi19&label=Profile%20views&color=0e75b6&style=flat" alt="namanjoshi19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjoshi19" alt="namanjoshi19" /></a> </p>
