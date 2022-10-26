@@ -7,9 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanjoshi19&label=Profile%20views&color=0e75b6&style=flat" alt="namanjoshi19" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/mr_handsome_11" target="blank"><img src="https://img.shields.io/twitter/follow/mr_handsome_11?logo=twitter&style=for-the-badge" alt="mr_handsome_11" /></a> </p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/namanjoshi1909/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCggUWihIif2HeOzAlZ2T7bQ">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/mr_handsome_11">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 🔭 I’m currently working on [Frontend Development](https://namanjoshi19.github.io/namanportfolio/)
 
